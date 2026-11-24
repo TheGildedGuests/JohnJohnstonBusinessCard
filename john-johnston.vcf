@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Johnston;John;;;
+FN:John Johnston
+ORG:The Gilded Guests
+TITLE:Founder & Experience Curator
+TEL;TYPE=CELL,VOICE:0220241567
+EMAIL;TYPE=INTERNET:TheGildedGuests@gmail.com
+URL;TYPE=WORK:https://thegildedguests.github.io/
+item1.URL:https://www.instagram.com/thegildedguests/
+item1.X-ABLabel:Instagram
+item2.URL:https://x.com/TheGildedGuests
+item2.X-ABLabel:X / Twitter
+item3.URL:https://thegildedguests.github.io/JohnJohnstonBusinessCard/
+item3.X-ABLabel:Digital Business Card
+NOTE:Curated Experiences. Unforgettable Moments.
+END:VCARD
